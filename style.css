@@ -231,7 +231,6 @@ nav .closeicon{
     align-items: center;
     justify-content: right;
     position: relative;
-    overflow-x: hidden;
 }
 .thirdcontent .thirdtext{
     max-width: 50%;
